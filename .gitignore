@@ -1,1 +1,4 @@
 /.idea/
+/config.py
+/tests/text1.txt
+/tests/text2.txt
